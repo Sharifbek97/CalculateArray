@@ -7,11 +7,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79539a4c-2d07-414b-82e0-7783f09a7c53" name="Changes" comment="" />
+    <list default="true" id="79539a4c-2d07-414b-82e0-7783f09a7c53" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ArrayVolueN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayVolueN/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ArrayVolueN/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,6 +79,7 @@
       <workItem from="1676479110748" duration="1000" />
       <workItem from="1676479974199" duration="482000" />
       <workItem from="1676480463006" duration="31000" />
+      <workItem from="1676480500498" duration="568000" />
     </task>
     <task id="LOCAL-00001" summary="Summa of elements of Array and everagy of elements of array">
       <created>1676182187983</created>
@@ -82,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676182187983</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added summa and average arithmetic of elements of array">
+      <created>1676480862761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676480862761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Summa of elements of Array and everagy of elements of array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Summa of elements of Array and everagy of elements of array" />
+    <MESSAGE value="Added summa and average arithmetic of elements of array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added summa and average arithmetic of elements of array" />
   </component>
 </project>

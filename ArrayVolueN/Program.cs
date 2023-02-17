@@ -5,7 +5,7 @@ var n = int.Parse(Console.ReadLine());
 var array=new int[n];
 Console.Write("\tElements of array ");
 var rnd = new Random();
-for (var i = 0; i < n; ++i)
+foreach (var i in array )
 {
     array[i] = rnd.Next(-20, 40);
     Console.Write("  "+array[i]);
