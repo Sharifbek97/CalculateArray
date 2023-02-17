@@ -1,0 +1,15 @@
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/bin/Debug/net6.0/ArrayVolueN
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/bin/Debug/net6.0/ArrayVolueN.deps.json
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/bin/Debug/net6.0/ArrayVolueN.runtimeconfig.json
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/bin/Debug/net6.0/ArrayVolueN.dll
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/bin/Debug/net6.0/ArrayVolueN.pdb
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/obj/Debug/net6.0/ArrayVolueN.csproj.AssemblyReference.cache
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/obj/Debug/net6.0/ArrayVolueN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/obj/Debug/net6.0/ArrayVolueN.AssemblyInfoInputs.cache
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/obj/Debug/net6.0/ArrayVolueN.AssemblyInfo.cs
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/obj/Debug/net6.0/ArrayVolueN.csproj.CoreCompileInputs.cache
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/obj/Debug/net6.0/ArrayVolueN.dll
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/obj/Debug/net6.0/refint/ArrayVolueN.dll
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/obj/Debug/net6.0/ArrayVolueN.pdb
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/obj/Debug/net6.0/ArrayVolueN.genruntimeconfig.cache
+/Users/amirbekmirzozoda/RiderProjects/ArrayVolueN/ArrayVolueN/obj/Debug/net6.0/ref/ArrayVolueN.dll
